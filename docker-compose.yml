@@ -7,4 +7,4 @@ services:
         ports:
             - "3001:3001"
         volumes:
-            - .:/Users/print/Documents/_PERSONAL/app
+            - .:/usr/app
